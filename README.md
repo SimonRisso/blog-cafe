@@ -6,7 +6,7 @@ Objetivos principales:
 
 - Aplicar Modernizr para la compatibilidad: Incorporar Modernizr para detectar características del navegador y proporcionar soluciones alternativas en caso de que el navegador no soporte ciertas funcionalidades modernas, como imágenes en formato WebP.
 
-- URL: **https://template-tienda-generica.netlify.app/**
+- URL: **https://blog-cafe-static.netlify.app/**
 
 ## Tecnologías usadas
 
